@@ -14,7 +14,7 @@
     "debug": "nodemon --inspect-brk bin/www.js"
   },
   "devDependencies": {
-    "@themost/cli": "^2.1.1",
+    "@themost/cli": "latest",
     "@types/angular": "^1.6.57",
     "@types/node": "^10.5.0",
     "@typescript-eslint/eslint-plugin": "^1.5.0",
@@ -36,14 +36,14 @@
     "typescript-eslint-parser": "^22.0.0"
   },
   "dependencies": {
-    "@themost/client": "^2.5.1",
-    "@themost/common": "^2.5.2",
-    "@themost/data": "^2.5.7",
-    "@themost/node": "^2.5.0",
-    "@themost/query": "^2.5.0",
-    "@themost/sqlite": "^2.2.3",
-    "@themost/web": "^2.5.2",
-    "@themost/xml": "^2.5.1",
+    "@themost/client": "latest",
+    "@themost/common": "latest",
+    "@themost/data": "latest",
+    "@themost/node": "latest",
+    "@themost/query": "latest",
+    "@themost/sqlite": "latest",
+    "@themost/web": "latest",
+    "@themost/xml": "latest",
     "bootstrap": "^4.1.1",
     "jquery": "^3.3.1",
     "popper.js": "^1.14.7"
